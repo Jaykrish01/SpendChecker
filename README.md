@@ -2,8 +2,9 @@
 
 A simple, modern expense tracking web application built with Flask and vanilla JavaScript. Track your daily expenses, categorize them, and get insights into your spending habits.
 
-![SpendChecker Dashboard](<img width="1878" height="900" alt="Screenshot 2026-03-24 230738" src="https://github.com/user-attachments/assets/cd135ab3-28b7-4ec0-bee0-3418dbdb4bc0" />
-) <!-- Replace with actual screenshot -->
+<img width="1878" height="900" alt="Screenshot 2026-03-24 230738" src="https://github.com/user-attachments/assets/cd135ab3-28b7-4ec0-bee0-3418dbdb4bc0" />
+<img width="1762" height="717" alt="Screenshot 2026-03-24 230858" src="https://github.com/user-attachments/assets/3c71800d-7080-46ad-99f3-5cdc580e69ee" />
+
 
 ## Features
 
